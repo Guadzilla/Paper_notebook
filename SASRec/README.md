@@ -1,9 +1,14 @@
 # Self-Attentive Sequential Recommendation(SASRec)
 
-源码解读。
+逐行源码解读。
 
 # 
 
-原paper：   Wang-Cheng Kang, Julian McAuley (2018). Self-Attentive Sequential Recommendation. In Proceedings of IEEE International Conference on Data Mining (ICDM'18)  
+原paper：   https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf  
   
-原code：    https://github.com/kang205/SASRec （tf版）  https://github.com/pmixer/SASRec.pytorch （pytorch版）
+原code：    https://github.com/kang205/SASRec 
+
+# 
+
+pytorch版本代码：https://github.com/pmixer/SASRec.pytorch
+
