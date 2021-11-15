@@ -240,3 +240,28 @@ tensor([[3, 4, 1, 2, 0]])
 
 [numpy中的argmax、argmin、argwhere、argsort、argpartition函数 - 古明地盆 - 博客园 (cnblogs.com)](https://www.cnblogs.com/traditional/p/13702904.html)
 
+## 评价指标Hit Ratio、NDCG[1]
+
+### Hit Ratio
+
+Evaluation Metrics. Given a user, each algorithm produces a ranked list of items. To assess the ranked list with the ground-truth item set (GT), we adopt Hit Ratio (HR), which has been commonly used in top-N evaluation . If a test item appears in the recommended list, it is deemed a hit. HR is calculated as:
+$$
+HR@K=\frac{Number\ of \  Hits@K}{|GT|}
+$$
+
+### NDCG
+
+As the HR is recall-based metric, it does not reflect the accuracy of getting top ranks correct, which is crucial in many real-world applications. To address this, we also adopt Normalized Discounted Cumulative Gain (NDCG), which assigns higher importance to results at top ranks, scoring successively lower ranks with marginal fractional utility:
+$$
+NDCG@K=Z_K\sum^K_{i=1}\frac{2^{r_i}-1}{log_2{(i+1)}}
+$$
+where ZK is the normalizer to ensure the perfect ranking has a value of 1; ri is the graded relevance of item at position i. We use the simple binary relevance for our work: ri = 1 if the item is in the test set, and 0 otherwise. For both metrics, larger values indicate better performance. In the evaluation, we calculate both metrics for each user in the test set, and report the average score.
+
+
+
+## 参考文献：
+
+[1]He X, Chen T, Kan M Y, et al. Trirank: Review-aware explainable recommendation by modeling aspects[C]//Proceedings of the 24th ACM International on Conference on Information and Knowledge Management. 2015: 1661-1670.
+
+
+
