@@ -11,7 +11,7 @@
 
 
 #
-序列推荐
+序列/会话推荐
 | Sequential Recommendation | Notebook | keywords |
 | ------ | ------ |  ------ |
 | SASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/SASRec) | Self-attention |
