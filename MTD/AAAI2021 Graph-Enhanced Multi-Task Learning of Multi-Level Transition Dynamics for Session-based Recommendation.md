@@ -8,7 +8,7 @@ Graph-Enhanced Multi-Task Learning of Multi-Level Transition Dynamics for Sessio
 
 complex transition dynamics 的"complex"体现在：multi-level relation(intra- and inter-session item relation) . 会话内：short-term and long-term item transition，会话间：long-range cross-session dependencies。复杂依赖的例子见Figure 1.
 
-![image-20210924144140485](https://github.com/Guadzilla/Paper_notebook/blob/main/images/MTD-1.png)
+![MTD-1](https://gitee.com/Guadzilla/img-hosting/raw/master/MTD-1.png)
 
 ### 开源代码:
 
@@ -24,7 +24,7 @@ https://github.com/sessionRec/MTD
 
 ### 网络图：
 
-![image-20210924155218469](https://github.com/Guadzilla/Paper_notebook/blob/main/images/MTD-2.png)
+![MTD-2](https://gitee.com/Guadzilla/img-hosting/raw/master/MTD-2.png)
 
 ### 方法论：
 
