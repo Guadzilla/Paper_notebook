@@ -1,8 +1,8 @@
 # Self-Attentive Sequential Recommendation(SASRec)
 
-逐行源码解读。
+源码逐行解读，加入了中文注释。
 
-论文精读：   https://guadzilla.github.io/2021/11/17/SASRec/
+论文阅读笔记：   https://guadzilla.github.io/2021/11/17/SASRec/
 
 # 
 
