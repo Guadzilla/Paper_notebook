@@ -2,6 +2,8 @@
 
 逐行源码解读。
 
+论文精读：   https://guadzilla.github.io/2021/11/17/SASRec/
+
 # 
 
 原paper：   https://cseweb.ucsd.edu/~jmcauley/pdfs/icdm18.pdf  
