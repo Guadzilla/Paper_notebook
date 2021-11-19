@@ -15,6 +15,6 @@
 | Sequential Recommendation | Notebook | keywords |
 | ------ | ------ |  ------ |
 | SASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/SASRec) | Self-attention |
-| TiSASRec | 占坑 |  ------ |
+| TiSASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/TiSASRec) | Self-attention + 相对时间间隔特征 |
 | SRGNN | 占坑 |  ------ |
 | DRL-SRe | 占坑 |  ------ |
