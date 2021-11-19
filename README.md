@@ -1,5 +1,5 @@
 # Paper_notebook
- 
+
 
 关于一些经典论文的中文笔记，主要包含**论文笔记**和**逐行源码注释**。
 
@@ -17,4 +17,6 @@
 | SASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/SASRec) | Self-attention |
 | TiSASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/TiSASRec) | Self-attention + 相对时间间隔特征 |
 | SRGNN | 占坑 |  ------ |
+| MTD | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/MTD) | self-attention + GCN + 对比学习 |
 | DRL-SRe | 占坑 |  ------ |
+
