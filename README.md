@@ -19,7 +19,7 @@
 | SRGNN | 占坑 |  ------ |
 | TAGNN | 占坑 |  ------ |
 | MTD | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/MTD) | Self-attention + GCN + 对比学习 |
-| DRL-SRe | 占坑 |  ------ |
 | Bert4Rec | 占坑 |  ------ |
+| R^3 | 占坑 |  ------ |
 | Transformer4Rec | 占坑 |  ------ |
 
