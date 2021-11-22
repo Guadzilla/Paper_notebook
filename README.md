@@ -18,7 +18,7 @@
 | TiSASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/TiSASRec) | Self-attention + 相对时间间隔特征 |
 | SRGNN | 占坑 |  ------ |
 | TAGNN | 占坑 |  ------ |
-| GRCN | [Notebook](https://github.com/Guadzilla/Paper_notebook) |  ------ |
+| GRCN | [Notebook](https://github.com/Guadzilla/Paper_notebook) | 多模态 + GCN + 图去噪 |
 | MTD | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/MTD) | Self-attention + GCN + 对比学习 |
 | Bert4Rec | 占坑 |  ------ |
 | R^3 | 占坑 |  ------ |
