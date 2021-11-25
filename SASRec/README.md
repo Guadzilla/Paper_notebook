@@ -2,7 +2,7 @@
 
 源码逐行解读，加入了中文注释。
 
-论文阅读笔记：   https://guadzilla.github.io/2021/11/17/SASRec/
+论文阅读笔记：   https://guadzilla.github.io/2021/11/03/SASRec/
 
 # 
 
