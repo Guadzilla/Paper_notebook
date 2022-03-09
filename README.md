@@ -12,15 +12,26 @@
 
 #
 序列/会话推荐
-| Sequential Recommendation | Notebook | keywords |
+| Sequential Recommendation | Notebook | Keywords |
 | ------ | ------ |  ------ |
 | SASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/SASRec) | Self-attention |
 | TiSASRec | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/TiSASRec) | Self-attention + 相对时间间隔特征 |
-| SRGNN | 占坑 |  ------ |
-| TAGNN | 占坑 |  ------ |
-| GRCN | [Notebook](https://github.com/Guadzilla/Paper_notebook) | 多模态 + GCN + 图去噪 |
-| MTD | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/MTD) | Self-attention + GCN + 对比学习 |
 | Bert4Rec | 占坑 |  ------ |
 | R^3 | 占坑 |  ------ |
 | Transformer4Rec | 占坑 |  ------ |
 
+#
+会话推荐
+| Session-based Recommendation | Notebook | Keywords |
+| ------ | ------ |  ------ |
+| SRGNN | 占坑 |  ------ |
+| TAGNN | 占坑 |  ------ |
+| GRCN | [Notebook](https://github.com/Guadzilla/Paper_notebook) | 多模态 + GCN + 图去噪 |
+| MTD | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/MTD) | Self-attention + GCN + 对比学习 |
+
+
+#
+流会话推荐
+| Streaming Session-based Recommendation | Notebook | Keywords |
+| ------ | ------ |  ------ |
+| SSRM | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/SASRec) | GRU + MF attention + streaming setting |
