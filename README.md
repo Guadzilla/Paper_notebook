@@ -32,7 +32,19 @@
 
 #
 流会话推荐
-| Streaming Session-based Recommendation | Notebook | Keywords |
+| Streaming Recommendation | Notebook | Keywords |
 | ------ | ------ |  ------ |
 | SSRM | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/SSRM) | GRU + MF attention + streaming setting |
 | GAG | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/GAG) | GNN + streaming setting |
+
+#
+
+微行为会话推荐
+| Micro-behaviors Recommendation | Notebook | Keywords |
+| RIB | ------ |  ------ |
+| BINN | ------ |  ------ |
+| HUP | ------ |  ------ |
+| MKM-SR | ------ |  ------ |
+| MGNN-SPred | ------ |  ------ |
+| AMAN | ------ |  ------ |
+| EMBSR | ------ |  ------ |
