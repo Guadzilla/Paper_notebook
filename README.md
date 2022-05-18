@@ -38,9 +38,9 @@
 | GAG | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/GAG) | GNN + streaming setting |
 
 #
-
 微行为会话推荐
 | Micro-behaviors Recommendation | Notebook | Keywords |
+| ------ | ------ |  ------ |
 | RIB | ------ |  ------ |
 | BINN | ------ |  ------ |
 | HUP | ------ |  ------ |
