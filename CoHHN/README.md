@@ -2,7 +2,7 @@
 
 
 
-论文阅读笔记：   [论文笔记：《Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation》 | 瓜斯拉的逆袭 (guadzilla.github.io)](https://guadzilla.github.io/2022/06/22/CoHHN/)
+论文阅读笔记：   [论文笔记：《Price DOES Matter! Modeling Price and Interest Preferences in Session-based Recommendation》 | 瓜斯拉的逆袭 (guadzilla.github.io)](https://guadzilla.github.io/2022/05/22/CoHHN/)
 
 # 
 
