@@ -28,6 +28,7 @@
 | TAGNN | ------ |  ------ |
 | GRCN | [Notebook](https://github.com/Guadzilla/Paper_notebook) | 多模态 + GCN + 图去噪 |
 | MTD | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/MTD) | Self-attention + GCN + 对比学习 |
+| CoHHN | [Notebook](https://github.com/Guadzilla/Paper_notebook/tree/main/CoHHN) | 价格 + 异质超图 + 协同指导学习 |
 
 
 #
